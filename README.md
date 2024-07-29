@@ -17,5 +17,5 @@ Prompts utilizados: "Create an image of a street dog getting a dog snack from a 
 
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Este desafio mostra como as IAs generativas estão cada vez mais treinadas, podendo fazer imagens, vídeos e aúdios muito realistas com prompts simples e eficazes. 
